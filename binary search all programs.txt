@@ -1,0 +1,49 @@
+Binary search 1st and formost thing is :- after full traversing if the key is not found then the high and low will point to smaller and next greater element .
+
+find last and first pos:-https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/        
+first and last pos:-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+
+find minimum in the rotated sorted:- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
+search in rotated sorted:- https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+search in a nearly sorted array:- https://www.geeksforgeeks.org/search-almost-sorted-array/
+
+search insert position in a sorted array :- https://leetcode.com/problems/search-insert-position/
+
+floor in a sorted array:- https://www.geeksforgeeks.org/floor-in-a-sorted-array/
+
+Ceiling in a sorted array:-https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
+
+next element -:https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
+
+infinite sorted array:-https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
+index of 1st one in the:-https://www.geeksforgeeks.org/find-index-first-1-infinite-sorted-array-0s-1s/
+
+minimum difference between sorted array using binary search:-https://www.geeksforgeeks.org/find-minimum-difference-pair/
+
+binary search on ans:-http://discuss.spoj.com/t/binary-search-the-answer/11592
+
+search in a row wise and col wise sorted matrix:-https://leetcode.com/problems/search-a-2d-matrix/
+ 
+Peek element :-https://leetcode.com/problems/find-peak-element/description/
+
+Math question binary search :-a^2 +b^2 :-https://leetcode.com/problems/sum-of-square-numbers/description/
+
+Find the kth closest element leetcode:-https://leetcode.com/problems/find-k-closest-elements/submissions/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://management.azure.com/providers/Microsoft.Billing/billingAccounts/9cd1927f-e415-5286-1032-522744ea39a6:d251cd81-60ad-41f2-9062-17f14ae83cb1_2019-05-31/providers/Microsoft.Consumption/usageDetails?api-version=2019-10-01&startDate=2023-05-01&endDate=2023-05-31&sessiontoken=21:79017219&$skiptoken=317C313030307C313030307C46616C73657C547275657C30&skiptokenver=v1&id=8db40b7d-f032-42bd-b644-970592767c10

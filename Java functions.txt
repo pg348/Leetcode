@@ -1,0 +1,180 @@
+//Java String Methods
+
+Java String split()
+Splits the string at the specified string (regex)
+
+Java String compareTo()
+Compares two strings in the dictionary order
+
+Java String compareToIgnoreCase()
+Compares two strings ignoring case differences
+
+Java String length()
+Returns the length of the string
+
+Java String replace()
+Replace all matching characters/text in the string
+
+Java String replaceAll()
+Replace all substrings matching the regex pattern
+
+Java String substring()
+Returns a substring from the given string
+
+Java String equals()
+Compares two strings
+
+Java String equalsIgnoreCase()
+Compares two strings ignoring case differences
+
+Java String contains()
+Checks whether the string contains a substring
+
+Java String indexOf()
+Returns the index of the character/substring
+
+Java String trim()
+Removes any leading and trailing whitespace
+
+Java String charAt()
+Returns the character at the given index
+
+Java String toLowerCase()
+Converts characters in the string to lower case
+
+Java String concat()
+Concatenates two strings and returns it
+
+Java String valueOf()
+Returns the string representation of a value
+
+Java String matches()
+checks whether the string matches the given regex
+
+Java String startsWith()
+Checks if the string begins with the given string
+
+Java String endsWith()
+Checks if the string ends with the given string
+
+Java String isEmpty()
+Checks whether a string is empty or not
+
+Java String intern()
+Returns a canonical representation of the string
+
+Java String getBytes()
+Encodes the string into a sequences of bytes
+
+Java String contentEquals()
+Checks whether the string is equal to charSequence
+
+Java String hashCode()
+Returns a hash code for the string
+
+Java String join()
+Joins the given strings using the delimiter
+
+Java String replaceFirst()
+Replace the first matching substring
+
+Java String subSequence()
+Returns a subsequence from the string
+
+Java String toCharArray()
+Converts the string to a char array
+
+Java String format()
+Returns a formatted string
+
+
+
+
+
+//Java Hashmap
+
+Java HashMap clear()
+remove all elements from HashMap
+
+Java HashMap clone()
+makes the copy of the hashmap
+
+Java HashMap isEmpty()
+checks if the HashMap is empty
+
+Java HashMap size()
+returns the number of items in HashMap
+
+Java HashMap put()
+inserts the specified item to the hashmap
+
+Java HashMap putAll()
+inserts all items from a map to HashMap
+
+Java HashMap putIfAbsent()
+inserts item if the key is not already present
+
+Java HashMap remove()
+removes the mapping for the specified key
+
+Java HashMap containsKey()
+checks if the specified key is present in HashMap
+
+Java HashMap containsValue()
+checks if HashMap contains the specified value
+
+Java HashMap replace()
+replaces the value for the specified key
+
+Java HashMap replaceAll()
+replaces all values with
+
+Java HashMap get()
+returns the value using the specified key
+
+Java HashMap getOrDefault()
+returns specified default value if key not found
+
+Java HashMap forEach()
+performs the action to all entries of HashMap
+
+Java HashMap entrySet()
+returns a set view of all entries
+
+Java HashMap keySet()
+returns a set view of all the keys of HashMap
+
+Java HashMap values()
+returns a view of all values present in HashMap
+
+Java HashMap merge()
+merges the specified mapping to the HashMaps
+
+Java HashMap compute()
+computes a new value for the specified key
+
+Java HashMap computeIfAbsent()
+computes value if mapping for key is not present
+
+Java HashMap computeIfPresent()
+computes a value for the mapping if key is present
+
+
+
+//Java object 
+
+Java Object getClass()
+returns the class name of the object
+
+Java Object hashCode()
+returns the hashcode value of the object
+
+Java Object toString()
+converts an object into the string
+
+Java Object equals()
+checks if two objects are equal
+
+Java Object clone()
+creates a copy of the object
+

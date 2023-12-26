@@ -1,0 +1,49 @@
+class Solution {
+     public class check implements Comparable<check>{
+        int count;
+        int ind;
+        public check(int count,int ind){
+           this.count=count;
+           this.ind=ind;
+        }
+        @Override
+        public int compareTo(check p2){
+            if(this.count==p2.count){
+                return this.ind-p2.ind;
+            }
+            else{
+                return this.count-p2.count;
+            }
+        }
+    }
+    public int[] kWeakestRows(int[][] mat, int k) {
+        PriorityQueue<check> pq=new PriorityQueue<>();
+        int row=mat.length;
+        int col=mat[0].length;
+       
+        for(int i=0;i<row;i++){
+             int count=0;
+            for(int j=0;j<col;j++){
+                if(mat[i][j]==1){
+                    count=count+mat[i][j];
+                }
+                
+                
+            }
+            pq.add(new check(count,i));
+        }
+        
+        int [] arr=new int[k];
+
+        for(int i=0;i<k;i++){
+            int n=pq.remove().ind;
+            arr[i]=n;
+            
+        }
+
+        return arr;
+        
+        
+        
+    }
+}
